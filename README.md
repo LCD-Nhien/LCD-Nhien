@@ -1,7 +1,6 @@
 </p>
 
 
-
 <p align="center">
   <em>
     🌱🌱🌱 This is me, LAM CHU DIEU NHIEN, I'm a <b> IT recruiter</b> now 🌱🌱🌱
@@ -15,16 +14,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ I’m currently Developing **Paycron** Payment Gateway **@Plaxonic**<br>
-✔ I’m currently learning **ReactJS** & **NodeJS**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ I’m currently looking for **ReactJS** & **Automation QC** & **.NET** & **Java**<br>
+✔ I’m positive person<br>
+✔ I like reading books, camping and drinking coffee<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
  
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***I'm looking for...***
 <p align="left">
   
@@ -62,11 +56,7 @@ Here are some [funny](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+
 </div>
 
 <hr>
@@ -74,7 +64,7 @@ Here are some [funny](https://cultofthepartyparrot.com):
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/lam-chu-dieu-nhien/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="mailto:ahmed.bilal575@gmail.com"
+<a target="_blank" href="mailto:nhien.lam@saigontechnology.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="https://twitter.com/ahmadshaikhk"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>

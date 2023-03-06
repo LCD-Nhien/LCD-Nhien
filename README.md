@@ -14,7 +14,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ I’m currently looking for **ReactJS** & **Automation QC** & **.NET** & **Java**<br>
+✔ I’m currently looking for Middle/Senior/Techlead **ReactJS** & **Automation QC** & **.NET** & **Java**<br>
 ✔ I’m positive person<br>
 ✔ I like reading books, camping and drinking coffee<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br><br>
